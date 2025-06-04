@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6705a0c88ce84724baa4e9b600d57be0, type: 3}
+  m_Name: ChipSO
+  m_EditorClassIdentifier: 
+  bluelays: 4
+  bluelayPic: {fileID: 727311793, guid: 2a7013a91e3e7a345bd056d119a3a164, type: 3}
+  kukree: 3
+  kukreePic: {fileID: 733345260, guid: 2a7013a91e3e7a345bd056d119a3a164, type: 3}
+  redlays: 2
+  redlaysPic: {fileID: 1183721803, guid: 2a7013a91e3e7a345bd056d119a3a164, type: 3}
+  greenlays: 4
+  greenlaysPic: {fileID: 273444970, guid: 2a7013a91e3e7a345bd056d119a3a164, type: 3}
+  yellowlays: 5
+  yellowlaysPic: {fileID: 191214673, guid: 2a7013a91e3e7a345bd056d119a3a164, type: 3}
