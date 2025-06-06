@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -252,6 +252,69 @@ TextureImporter:
       name: rappers_6
       rect:
         serializedVersion: 2
+        x: 360
+        y: 1585
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67243bb3feb54a84e8f57b3560978dec
+      internalID: 1326087217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rappers_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1499
+        width: 78
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348cf9c0fdc29c41af84392370c4424
+      internalID: 1613855570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rappers_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1533
+        width: 93
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9df476a8ca34e43998437a79bbcf87
+      internalID: -1688844157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rappers_9
+      rect:
+        serializedVersion: 2
         x: 19
         y: 1528
         width: 8
@@ -263,8 +326,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67243bb3feb54a84e8f57b3560978dec
-      internalID: 1326087217
+      spriteID: cf4041fee4caa0846896d353bbe3ed3e
+      internalID: 1117282263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rappers_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1500
+        width: 138
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5a4ccc0b14d64cb9e36dac04e4948
+      internalID: 1628528913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rappers_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1387
+        width: 304
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e9f46d9f16a94a80958480b83a7ca
+      internalID: -114979437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rappers_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1206
+        width: 79
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc2ffc779f78764687c805a0a7aad31
+      internalID: 726984996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rappers_13
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 958
+        width: 71
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e440a3a5d38f3d54b83346b1e1feecfd
+      internalID: 1075527018
       vertices: []
       indices: 
       edges: []
@@ -282,11 +429,18 @@ TextureImporter:
     nameFileIdTable:
       rappers_0: 273444970
       rappers_1: 733345260
+      rappers_10: 1628528913
+      rappers_11: -114979437
+      rappers_12: 726984996
+      rappers_13: 1075527018
       rappers_2: 727311793
       rappers_3: 191214673
       rappers_4: 1183721803
       rappers_5: -1008576142
       rappers_6: 1326087217
+      rappers_7: 1613855570
+      rappers_8: -1688844157
+      rappers_9: 1117282263
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

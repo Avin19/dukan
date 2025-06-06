@@ -39,8 +39,8 @@ public class ChipController : MonoBehaviour
 
     public void AddChipsData(Sprite _sprite, Transform _position, int i)
     {
-        GameObject item = Instantiate(chipsPerfabs, new Vector3(_position.position.x, i * (-80f) + _position.position.y, 0f), Quaternion.identity, _position);
-        item.GetComponent<Image>().sprite = _sprite;
+        GameObject item = Instantiate(chipsPerfabs, new Vector3(_position.position.x, i * (-1.2f) + _position.position.y, 0f), Quaternion.identity, _position);
+        item.GetComponent<SpriteRenderer>().sprite = _sprite;
     }
 
 

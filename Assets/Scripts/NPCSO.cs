@@ -9,8 +9,10 @@ public class NPCSO : ScriptableObject
     public Sprite[] EyeBrows;
     public Sprite[] Noses;
     public Sprite[] Mouths;
+    public Sprite[] MaleCloth;
 
     public Color[] skinColor;
+    public Color[] hairColor;
 
 
 }
